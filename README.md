@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SuperFoued
 - 👀 I’m interested in CD/CI
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on Kubernetes 
+- 🌱 I’m currently learning Ansible
+- 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me ...
 
 <!---
